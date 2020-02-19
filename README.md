@@ -7,6 +7,10 @@ IDE：PyCharm 2019.3.1 x64
 
 Python Interpreter:Python 3.7
 
+package:
+
 pyecharts:0.5.11
+
 snownlp:0.12.3
+
 requests:2.22.0
