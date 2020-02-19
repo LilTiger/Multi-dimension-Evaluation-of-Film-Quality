@@ -1,6 +1,6 @@
 # Multi-dimension-Evaluation-of-Film-Quality
 
-This is the python source code used by the algorithm.
+This is the python source code used by the algorithm.Among them, the synonym database of six dimensions are plot.txt,audio-visual.txt,character.txt,fan effect.txt,business value.txt,theme.txt respectively.
 
 IDE：PyCharm 2019.3.1 x64
 
